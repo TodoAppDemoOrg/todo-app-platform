@@ -1,0 +1,1 @@
+A project which brings everything together: all services, databases, single page application etc
